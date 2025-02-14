@@ -1,0 +1,36 @@
+# Design and Development Report
+
+## Introduction
+
+The "Study MBBS Abroad" landing page was designed to provide an engaging and informative platform for students interested in pursuing an MBBS degree abroad. This document outlines the design considerations, development process, and technologies used to create a responsive and user-friendly landing page.
+
+## Design Approach
+
+The landing page follows a clean and modern design with a focus on usability and accessibility. The color scheme and typography were chosen to enhance readability and provide a professional look. The layout is structured with clearly defined sections:
+- **Hero Section:** Features a strong call-to-action (CTA) to encourage engagement.
+- **Why Study MBBS Abroad:** Highlights the key benefits of studying abroad.
+- **Top Countries Section:** Lists popular destinations for MBBS studies with relevant details.
+- **Admission Process & Eligibility:** Provides step-by-step guidance on the application process.
+- **Lead Generation Form:** Captures essential user information for further communication.
+
+## Development Process
+### Frontend Development
+
+The front was built using:
+- **HTML:** For structuring content.
+- **CSS :** For styling and ensuring responsiveness.
+- **JavaScript:** For smooth scrolling and interactive elements.
+
+## Performance Optimizations
+
+Several optimizations were implemented to enhance performance:
+- **SEO Optimization:** Meta tags, alt attributes, and structured headings improve search engine ranking.
+- **Fast Loading:** Minimized CSS and JavaScript files.
+- **Mobile Responsiveness:** Ensured through Tailwind CSS.
+
+## Deployment
+The project is designed to be deployed on **Netlify** for seamless hosting. 
+
+## Conclusion
+This landing page successfully delivers a responsive and functional platform for students exploring MBBS options abroad. The use of modern technologies, a well-structured layout, and performance optimization ensure an optimal user experience.
+
